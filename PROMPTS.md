@@ -1,0 +1,1 @@
+in folder terraform-lambda in the current repository, I want to setup a lambda function in node.js & typescript and uses terraform to deploy this function to aws and add in docker to enable local development from scratch. How can I do this?
