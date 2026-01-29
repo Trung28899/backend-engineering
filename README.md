@@ -4,7 +4,7 @@
 
 # Project Folders
 
-- Terraform Basics: See terraform-tutorial folder:
+- Terraform Basics: See [terraform-tutorial](https://github.com/Trung28899/backend-engineering/tree/master/terraform-tutorial)
   - main.tf
   - variables.tf
   - output.tf
