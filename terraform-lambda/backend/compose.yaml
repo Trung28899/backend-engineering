@@ -1,0 +1,16 @@
+services:
+  lambda:
+    build:
+      context: .
+    ports:
+      - "8000:8080"
+    environment:
+      NODE_ENV: development
+    develop:
+      watch:
+        # Rebuild when source files change
+        - action: rebuild
+          path: ./src
+        # Rebuild when dependencies change
+        - action: rebuild
+          path: ./package.json
