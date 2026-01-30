@@ -1,3 +1,5 @@
+# This script builds the TypeScript Lambda function, packages it, and deploys it to aws using Terraform.
+
 #!/bin/bash
 set -euo pipefail
 
