@@ -12,5 +12,7 @@
   - [See notes here](https://www.notion.so/trungtrinhh/Terraform-Tutorial-2f5fc6d4e4488049bfc0fea0051e17ef)
   - [Youtube video](https://www.youtube.com/watch?v=nvNqfgojocs)
 
-- Terraform Lambda: provisioning a lambda with API Gateway with terraform
-  - See terraform-lambda README.md
+- Terraform Lambda
+  - provisioning a typescript node.js application running on lambda with API Gateway.
+  - Deployment with terraform
+  - See [terraform-lambda README.md](https://github.com/Trung28899/backend-engineering/tree/master/terraform-lambda)
