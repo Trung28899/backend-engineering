@@ -4,6 +4,9 @@
 
 # Project Folders
 
+- Docker Basics:
+  - See this [docker-course](https://github.com/Trung28899/docker-course) repository
+
 - Terraform Basics: provisioning an EC2 with terraform
   - See [terraform-tutorial folder](https://github.com/Trung28899/backend-engineering/tree/master/terraform-tutorial):
     - main.tf
