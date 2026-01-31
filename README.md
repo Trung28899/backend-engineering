@@ -12,7 +12,8 @@
   - [See notes here](https://www.notion.so/trungtrinhh/Terraform-Tutorial-2f5fc6d4e4488049bfc0fea0051e17ef)
   - [Youtube video](https://www.youtube.com/watch?v=nvNqfgojocs)
 
-- Terraform Lambda
+- Terraform Lambda Docker
   - provisioning a typescript node.js application running on lambda with API Gateway.
   - Deployment with terraform
-  - See [terraform-lambda README.md](https://github.com/Trung28899/backend-engineering/tree/master/terraform-lambda)
+  - Running Lambda locally with Docker
+  - See [terraform-lambda-docker README.md](https://github.com/Trung28899/backend-engineering/tree/master/terraform-lambda-docker)
